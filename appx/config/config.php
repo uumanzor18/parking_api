@@ -23,7 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://api.parking.local/';
+//$config['base_url'] = 'http://api.parking.local/';
+$config['base_url'] = 'http://http://parkingapi-production-f209.up.railway.app/';
 //$config['base_url'] = 'https://wscbdev.cablecolor.hn/';
 
 /*
